@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: simple-nodejs-app
-        image: sejalkatre/simple-nodejs-app:10
+        image: sejalkatre/simple-nodejs-app:2
 
         ports:
         - containerPort: 3000
